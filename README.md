@@ -5,4 +5,5 @@
 對於消費者來說，水果外觀和保存期限是核心目標，為了協助柚農可以篩選出適合的水果送往市場銷售，本次專題將針對柚子品種中的白柚進行瑕疵檢測，減輕柚農在選果環節的負擔，並增加判斷準確率。透過Pytorch的yolov5模型進行遷移學習，針對白柚最容易產生瑕疵的部位進行模型訓練。訓練完成後加裝攝像機進行畫面捕捉已達成即時瑕疵辨識。
 
 ## Demo
+請點選下方圖片
 [![DEMO](https://github.com/jackson09255921/pomelo/blob/main/pomelo.png)](https://www.youtube.com/watch?v=FunzeHcvmO0)
